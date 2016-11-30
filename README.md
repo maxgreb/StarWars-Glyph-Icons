@@ -10,12 +10,16 @@ Star Wars GlyphIcons font&nbsp;&mdash; it's force-sense emblems, icons, lightsab
 ###Installation
  * Download
  * Copy the entire starwars-glyphicons directory into your project.
- * In the `&lt;head&gt;` of your html, reference the location to your starwars-glyphicons.css.
+ * In the `<head>` of your html, reference the location to your starwars-glyphicons.css.
+ 
  		```
 		<link rel="stylesheet" href="path/to/starwars-glyphicons/css/starwars-glyphicons.css">
 		```
+		
  * Use:
+ 
  		```<i class="swg swg-darthvader"></i>```
+ 		
 
 ## License
 Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World.
