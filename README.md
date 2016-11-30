@@ -1,6 +1,7 @@
 # Star Wars GlyphIcons [![Build Status](https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat)](https://maxgrebennikov.com/)
 
 The amazing glyphicons font and CSS toolkit.
+Star Wars GlyphIcons font&nbsp;&mdash; it's force-sense emblems, icons, lightsabers, aurebesh and naboo character set for your projects. Scalable vector icons that can instantly be customized&nbsp;&mdash; size, color, drop shadow, and anything that can be done with the power of CSS. Now we have more 30 glyphs & icons.
 
 ## Author
 
