@@ -17,7 +17,12 @@ Star Wars GlyphIcons font&nbsp;&mdash; it's force-sense emblems, icons, lightsab
  * Use:
  
  		<i class="swg swg-darthvader"></i>
- 		
+
+###Cheatsheet
+
+![Cheatsheet](http://www.starwarsglyphicons.com/imgs/cheatsheet.png)
+
+See full [cheatsheet](http://www.starwarsglyphicons.com/cheatsheet.phtml).
 
 ## License
 Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World.
