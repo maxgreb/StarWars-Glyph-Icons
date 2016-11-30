@@ -14,8 +14,7 @@ The amazing glyphicons font and CSS toolkit.
  * Use: <i class="swg swg-darthvader"></i>
 
 ## License
-Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World
-Font Awesome licensed under SIL OFL 1.1
-Code licensed under MIT License. 
+Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World.
+Font Awesome licensed under [SIL OFL] 1.1
+Code licensed under [MIT License](http://opensource.org/licenses/MIT). 
 Star Wars, movie titles and etc. is a registered trademark of Lucasfilm Ltd.
-Licensed with the [MIT License](http://opensource.org/licenses/MIT).
