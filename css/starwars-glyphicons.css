@@ -1,5 +1,5 @@
 /*!
- *  Star Wars GlyphIcons 1.0 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
+ *  Star Wars GlyphIcons 1.1 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
  *  License - http://starwarsglyphicons.com/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
@@ -284,6 +284,72 @@
 }
 .swg-bobbafett:before {
   content: "\f025";
+}
+.swg-saberjedi:before {
+  content: "\f026";
+}
+.swg-sabersith:before {
+  content: "\f027";
+}
+.swg-atat:before {
+  content: "\f028";
+}
+.swg-xwing:before {
+  content: "\f029";
+}
+.swg-wookie:before {
+  content: "\f02A";
+}
+.swg-akbar:before {
+  content: "\f02B";
+}
+.swg-falcon:before {
+  content: "\f02C";
+}
+.swg-leia:before {
+  content: "\f02D";
+}
+.swg-tie:before {
+  content: "\f02E";
+}
+.swg-lightsabers:before {
+  content: "\f02F";
+}
+.swg-kylo:before {
+  content: "\f030";
+}
+.swg-bb8:before {
+  content: "\f031";
+}
+.swg-trooper-ep7:before {
+  content: "\f032";
+}
+.swg-phasma:before {
+  content: "\f033";
+}
+.swg-trooper-o:before {
+  content: "\f034";
+}
+.swg-darthvader-o:before {
+  content: "\f035";
+}
+.swg-deathstar-o:before {
+  content: "\f036";
+}
+.swg-falcon-o:before {
+  content: "\f037";
+}
+.swg-r2d2-o:before {
+  content: "\f038";
+}
+.swg-tfdroid-o:before {
+  content: "\f039";
+}
+.swg-c3po-o:before {
+  content: "\f03A";
+}
+.swg-bobbafett-o:before {
+  content: "\f03B";
 }
 
 
