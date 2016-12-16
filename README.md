@@ -25,6 +25,8 @@ Official site&nbsp;&mdash; [www.starwarsglyphicons.com](http://www.starwarsglyph
 
 ![Cheatsheet](http://www.starwarsglyphicons.com/imgs/cheatsheet.png)
 
+Full Cheatsheet include: Original Trilogy title, Priquels title, Jedi & Sith logo, another logos, Star Wars icons, The Force Awakens icons, Rogue One icons and etc.
+
 See full [cheatsheet](http://www.starwarsglyphicons.com/cheatsheet.phtml).
 
 ## License
