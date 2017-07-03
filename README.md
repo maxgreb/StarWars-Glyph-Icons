@@ -6,11 +6,7 @@ Star Wars GlyphIcons font&nbsp;&mdash; it's force-sense emblems, icons, lightsab
 
 Official site&nbsp;&mdash; [www.starwarsglyphicons.com](http://www.starwarsglyphicons.com/).
 
-## Author
-
- * Max Grebennikov (Author-Developer) maximgreb@gmail.com
-
-###Installation
+### Installation
  * Download
  * Copy the entire starwars-glyphicons directory into your project.
  * In the `<head>` of your html, reference the location to your starwars-glyphicons.css.
@@ -21,7 +17,7 @@ Official site&nbsp;&mdash; [www.starwarsglyphicons.com](http://www.starwarsglyph
  
  		<i class="swg swg-darthvader"></i>
 
-###Cheatsheet
+### Cheatsheet
 
 ![Cheatsheet](http://www.starwarsglyphicons.com/imgs/cheatsheet.png)
 
@@ -34,3 +30,7 @@ Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World.
 Font Awesome licensed under SIL OFL 1.1.
 Code licensed under [MIT License](http://opensource.org/licenses/MIT). 
 Star Wars, movie titles and etc. is a registered trademark of Lucasfilm Ltd.
+
+## Author
+
+ * Max Grebennikov (Author-Developer) maximgreb@gmail.com
