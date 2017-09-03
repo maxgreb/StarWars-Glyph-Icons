@@ -1,5 +1,5 @@
 /*!
- *  Star Wars GlyphIcons 1.1 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
+ *  Star Wars GlyphIcons 1.3 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
  *  License - http://starwarsglyphicons.com/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
@@ -37,6 +37,9 @@
 }
 .swg-5x {
   font-size: 5em;
+}
+.swg-6x {
+  font-size: 6em;
 }
 .swg-fw {
   width: 1.28571429em;
@@ -350,6 +353,101 @@
 }
 .swg-bobbafett-o:before {
   content: "\f03B";
+}
+.swg-rogueone-title:before {
+  content: "\f03C";
+}
+.swg-rogueone-sybm:before {
+  content: "\f03D";
+}
+.swg-rogueone-2:before {
+  content: "\f03E";
+}
+.swg-k2s0:before {
+  content: "\f03F";
+}
+.swg-jynerso:before {
+  content: "\f040";
+}
+.swg-cassianandor:before {
+  content: "\f041";
+}
+.swg-mazkanata:before {
+  content: "\f042";
+}
+.swg-deathtrooper:before {
+  content: "\f043";
+}
+.swg-sawgerrera:before {
+  content: "\f044";
+}
+
+.swg-tie-2:before {
+  content: "\f045";
+}
+.swg-xwing-2:before {
+  content: "\f046";
+}
+.swg-falcon-2:before {
+  content: "\f047";
+}
+.swg-bobbafett-2:before {
+  content: "\f048";
+}
+.swg-darthvader-2:before {
+  content: "\f049";
+}
+.swg-bb8-2:before {
+  content: "\f04A";
+}
+
+.swg-cantina:before {
+  content: "\f04B";
+}
+.swg-carbonite:before {
+  content: "\f04C";
+}
+.swg-hologram:before {
+  content: "\f04D";
+}
+.swg-deathstar-2:before {
+  content: "\f04E";
+}
+.swg-combatdrone:before {
+  content: "\f04F";
+}
+.swg-falcon-3:before {
+  content: "\f050";
+}
+.swg-landspeeder:before {
+  content: "\f051";
+}
+.swg-speederbike:before {
+  content: "\f052";
+}
+.swg-stardestroyer:before {
+  content: "\f053";
+}
+.swg-xwing-3:before {
+  content: "\f054";
+}
+.swg-tie-3:before {
+  content: "\f055";
+}
+.swg-ywing:before {
+  content: "\f056";
+}
+.swg-jedistarfight:before {
+  content: "\f057";
+}
+.swg-sandcrawler:before {
+  content: "\f058";
+}
+.swg-atat-2:before {
+  content: "\f059";
+}
+.swg-atst:before {
+  content: "\f05A";
 }
 
 
