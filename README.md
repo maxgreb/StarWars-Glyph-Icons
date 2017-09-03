@@ -33,4 +33,4 @@ Star Wars, movie titles and etc. is a registered trademark of Lucasfilm Ltd.
 
 ## Author
 
- * Max Grebennikov (Author-Developer) maximgreb@gmail.com
+ * Max Grebennikov (Author-Developer) info@maxgrebennikov.com
