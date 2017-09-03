@@ -270,12 +270,25 @@
 .swg-deathstar:before {
   content: "\f01B";
 }
+.swg-deathstar-3:before {
+  content: "\f01C";
+}
+.swg-deathstar-4:before {
+  content: "\f01D";
+}
 .swg-r2d2:before {
   content: "\f01E";
+}
+.swg-darthvader-3:before {
+  content: "\f01F";
+}
+.swg-yoda-2:before {
+  content: "\f020";
 }
 .swg-darthvader:before {
   content: "\f021";
 }
+
 .swg-stormtrooper:before {
   content: "\f022";
 }
@@ -448,6 +461,21 @@
 }
 .swg-atst:before {
   content: "\f05A";
+}
+.swg-hanblaster:before {
+  content: "\f05B";
+}
+.swg-blasterrifle:before {
+  content: "\f05C";
+}
+.swg-lightsabers-2:before {
+  content: "\f05D";
+}
+.swg-lukelightsaber:before {
+  content: "\f05E";
+}
+.swg-kylolightsaber:before {
+  content: "\f05F";
 }
 
 
