@@ -1,5 +1,5 @@
 /*!
- *  Star Wars GlyphIcons 1.3 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
+ *  Star Wars GlyphIcons 1.4 by @maxtusken - http://starwarsglyphicons.com - @starwarsglyphicons
  *  License - http://starwarsglyphicons.com/license (Font: SIL OFL 1.1, CSS: MIT License)
  */
 /* FONT PATH
@@ -477,6 +477,87 @@
 .swg-kylolightsaber:before {
   content: "\f05F";
 }
+.swg-darthvader-4:before {
+  content: "\f060";
+}
+.swg-anakin:before {
+  content: "\f061";
+}
+.swg-anakin-young:before {
+  content: "\f062";
+}
+.swg-anakin-kid:before {
+  content: "\f063";
+}
+.swg-hansolo:before {
+  content: "\f064";
+}
+.swg-leia-2:before {
+  content: "\f065";
+}
+.swg-lukeskywalker:before {
+  content: "\f066";
+}
+.swg-c3po-2:before {
+  content: "\f067";
+}
+.swg-r2d2:before {
+  content: "\f068";
+}
+.swg-bb8-3:before {
+  content: "\f069";
+}
+.swg-padme:before {
+  content: "\f06A";
+}
+.swg-yoda-3:before {
+  content: "\f06B";
+}
+.swg-chewbacca:before {
+  content: "\f06C";
+}
+.swg-emperor:before {
+  content: "\f06D";
+}
+.swg-dooku:before {
+  content: "\f06E";
+}
+.swg-darthmaul:before {
+  content: "\f06F";
+}
+.swg-stormtrooper-2:before {
+  content: "\f070";
+}
+.swg-snowtrooper:before {
+  content: "\f071";
+}
+.swg-clonetrooper:before {
+  content: "\f072";
+}
+.swg-bobafett:before {
+  content: "\f073";
+}
+.swg-jabba:before {
+  content: "\f074";
+}
+.swg-jabba:before {
+  content: "\f074";
+}
+.swg-imperialguard:before {
+  content: "\f075";
+}
+.swg-quigonjinn:before {
+  content: "\f076";
+}
+.swg-obiwankenobi:before {
+  content: "\f077";
+}
+.swg-macewindu:before {
+  content: "\f078";
+}
+.swg-starwarsrebels:before {
+  content: "\f079";
+}
 
 
 .sr-only {
@@ -494,7 +575,3 @@
   position: static;
   width: auto;
   height: auto;
-  margin: 0;
-  overflow: visible;
-  clip: auto;
-}
