@@ -501,7 +501,7 @@
 .swg-c3po-2:before {
   content: "\f067";
 }
-.swg-r2d2:before {
+.swg-r2d2-2:before {
   content: "\f068";
 }
 .swg-bb8-3:before {
@@ -582,7 +582,33 @@
 .swg-stormtrooper-3:before {
   content: "\f081";
 }
-
+.swg-clonetrooper-2:before {
+  content: "\f082";
+}
+.swg-bobafett-2:before {
+  content: "\f083";
+}
+.swg-kylo-2:before {
+  content: "\f084";
+}
+.swg-wookie-2:before {
+  content: "\f085";
+}
+.swg-r2d2-3:before {
+  content: "\f086";
+}
+.swg-c3po-3:before {
+  content: "\f087";
+}
+.swg-bb8-4:before {
+  content: "\f088";
+}
+.swg-xwingpilot:before {
+  content: "\f089";
+}
+.swg-firstorder:before {
+  content: "\f08A";
+}
 
 .sr-only {
   position: absolute;
