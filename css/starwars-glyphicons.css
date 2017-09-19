@@ -558,6 +558,30 @@
 .swg-starwarsrebels:before {
   content: "\f079";
 }
+.swg-clonewars:before {
+  content: "\f07A";
+}
+.swg-swtrilogy:before {
+  content: "\f07B";
+}
+.swg-100clones:before {
+  content: "\f07C";
+}
+.swg-lastjedi:before {
+  content: "\f07D";
+}
+.swg-lastjedi-2:before {
+  content: "\f07E";
+}
+.swg-40starwars:before {
+  content: "\f07F";
+}
+.swg-darthvader-5:before {
+  content: "\f080";
+}
+.swg-stormtrooper-3:before {
+  content: "\f081";
+}
 
 
 .sr-only {
