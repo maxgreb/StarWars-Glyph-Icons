@@ -642,6 +642,28 @@
 .swg-porg-10:before {
   content: "\f095";
 }
+.swg-decals-1:before {
+  content: "\f096";
+}
+.swg-decals-2:before {
+  content: "\f097";
+}
+.swg-decals-3:before {
+  content: "\f098";
+}
+.swg-decals-4:before {
+  content: "\f099";
+}
+.swg-decals-5:before {
+  content: "\f09A";
+}
+.swg-holocron-1:before {
+  content: "\f09B";
+}
+.swg-holocron-2:before {
+  content: "\f09C";
+}
+
 
 .sr-only {
   position: absolute;
