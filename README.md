@@ -4,7 +4,7 @@ The amazing glyphicons font and CSS toolkit.
 
 Star Wars Glyph Icons font&nbsp;&mdash; it's force-sense emblems, icons, lightsabers, aurebesh and naboo character set for your projects. Scalable vector icons that can instantly be customized&nbsp;&mdash; size, color, drop shadow, and anything that can be done with the power of CSS. Now we have more 30 glyphs & icons.
 
-Official site&nbsp;&mdash; [www.starwarsglyphicons.com](http://www.starwarsglyphicons.com/).
+Official site&nbsp;&mdash; [www.starwarsglyphicons.ga](http://www.starwarsglyphicons.ga/).
 
 ### Installation
  * Download
@@ -19,11 +19,11 @@ Official site&nbsp;&mdash; [www.starwarsglyphicons.com](http://www.starwarsglyph
 
 ### Cheatsheet
 
-![Cheatsheet](http://www.starwarsglyphicons.com/imgs/cheatsheet.png)
+![Cheatsheet](http://www.starwarsglyphicons.ga/imgs/cheatsheet.png)
 
 Full Cheatsheet include: Original Trilogy title, Priquels title, Jedi & Sith logo, another logos, Star Wars icons, The Force Awakens icons, Rogue One icons and etc.
 
-See full [cheatsheet](http://www.starwarsglyphicons.com/cheatsheet.phtml).
+See full [cheatsheet](http://www.starwarsglyphicons.ga/cheatsheet.phtml).
 
 ## License
 Based on Font Awesome 4.7, used SF Distant Galaxy Symbols, Sensible World.
