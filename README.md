@@ -1,6 +1,6 @@
 # Star Wars Glyph Icons [![Build Status](https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat)](https://maxgrebennikov.com/)
 
-(http://starwarsglyphicons.us.to/imgs/og-image-starwarsglyphicons.jpg)
+![Banner](http://starwarsglyphicons.us.to/imgs/og-image-starwarsglyphicons.jpg)
 
 The amazing glyphicons font and CSS toolkit.
 
