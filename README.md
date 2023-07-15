@@ -1,4 +1,4 @@
-# Star Wars Glyph Icons [![Build Status](https://img.shields.io/travis/bryanbraun/anchorjs/master.svg?style=flat)](https://maxgrebennikov.com/)
+# Star Wars Glyph Icons
 
 ![Banner](http://starwarsglyphicons.us.to/imgs/og-image-starwarsglyphicons.jpg)
 
